@@ -4,8 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivangomezgb)
-[![UBICACIÓN](https://img.shields.io/badge/UBICACIÓN-BOYACÁ%2C%20COLOMBIA-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white)](#)
-
+[![Ubicación](https://img.shields.io/badge/Ubicación-Sogamoso%2C%20Boyacá%2C%20Colombia-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 ---
 
 ## 👨‍💻 Sobre mí

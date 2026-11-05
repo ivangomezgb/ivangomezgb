@@ -15,7 +15,7 @@ Estudiante de Análisis y Desarrollo de software en formación con fuerte orient
 - 🎯 **Enfoque:** Desarrollo Web Backend/Frontend, Ciberseguridad Defensiva/Ofensiva y Auditoría de Vulnerabilidades.
 - 💡 **Pasión Tecnológica:** Creación de aplicaciones robustas con Python/Django, seguridad de endpoint e infraestructura de red.
 - 📚 **Aprendizaje Continuo:** Formación técnica en Cisco Networking Academy y participación activa en comunidades tech.
-- 🌐 **Idiomas:** Español (Nativo) | Inglés (Intermedio).
+- 🌐 **Idiomas:** Español (Nativo) | Inglés (A1).
 
 ---
 

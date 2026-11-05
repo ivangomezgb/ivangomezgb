@@ -1,4 +1,4 @@
-# ¡Hola a todos, soy Ivan Leonardo Gomez Estupiñan! 👋
+# ¡Hola a todos, soy Ivan Leonardo Gomez ! 👋
 
 ### 🚀 Desarrollador de Software | Apasionado por la Ciberseguridad & Redes
 
@@ -12,7 +12,7 @@
 
 Estudiante de Análisis y Desarrollo de software en formación con fuerte orientación hacia el **Desarrollo Web Full-Stack**, En aprendizaje autodidacta en  **Ciberseguridad** y **Administración de Redes e Infraestructura**.
 
-- 🎯 **Enfoque:** Desarrollo Web Backend/Frontend, Ciberseguridad Defensiva y Auditoría de Vulnerabilidades.
+- 🎯 **Enfoque:** Desarrollo Web Backend/Frontend, Ciberseguridad Defensiva/Ofensiva y Auditoría de Vulnerabilidades.
 - 💡 **Pasión Tecnológica:** Creación de aplicaciones robustas con Python/Django, seguridad de endpoint e infraestructura de red.
 - 📚 **Aprendizaje Continuo:** Formación técnica en Cisco Networking Academy y participación activa en comunidades tech.
 - 🌐 **Idiomas:** Español (Nativo) | Inglés (Intermedio).
@@ -45,3 +45,20 @@ Estudiante de Análisis y Desarrollo de software en formación con fuerte orient
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+## 👥 Comunidades & Ecosistema Developer
+
+Formo parte activa de la comunidad tecnológica y de software libre en Colombia, participando y colaborando en eventos de aprendizaje colectivo, conferencias y meetups local y nacionalmente:
+
+- 🇨🇴 **Python Colombia:** Colaborador y participante en la comunidad nacional de Python.
+- 🟡 **BoyaConf:** Asistente y entusiasta activo en la conferencia de tecnología más importante de Boyacá.
+- 💜 **PyLadies Colombia:** Apoyo y participación en la iniciativa global que promueve la diversidad e inclusión en el ecosistema Python.
+- 🚀 **Boyacá Dev:** Participante activo en los meetups regionales para el impulso del talento tech local.
+
+## 💼 Ética Profesional & Habilidades Blandas
+
+Además de mi formación técnica, me rige un fuerte compromiso con la responsabilidad, la disciplina y el trabajo en equipo:
+
+- ⏱️ **Puntualidad & Gestión del Tiempo:** Rigor estricto en la puntualidad y cumplimiento de cronogramas de trabajo, asegurando que cada actividad se complete en los plazos establecidos.
+- 📂 **Entrega de Trabajos & Documentación:** Enfoque orientado a resultados y calidad, entregando repositorios documentados, código limpio y entregables académicos/profesionales a tiempo.
+- 🤝 **Trabajo Colaborativo:** Experiencia coordinando y colaborando con compañeros en proyectos grupales, gestionando tareas mediante metodologías ágiles como historias de usuario y tableros en Jira.
+- 🔄 **Adaptabilidad & Autonomía:** Capacidad de autoaprendizaje constante y rápida adaptación a nuevas herramientas, lenguajes y entornos de desarrollo o ciberseguridad.
